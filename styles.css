@@ -39,7 +39,8 @@ body {
 body {
     font-family: "Raleway", sans-serif;
     padding: 10px;
-    background: linear-gradient(135deg, #003abb, #ff00f7) fixed
+    background: rgb(0,1,11) fixed;
+background: linear-gradient(180deg, rgba(0,1,11,1) 0%, rgba(121,9,86,1) 26%, rgba(210,34,255,1) 100%) fixed;
 }
 
 .column {
